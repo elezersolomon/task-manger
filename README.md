@@ -1,3 +1,3 @@
 # task-manger
 
-human-resource task-mangement app
+human-resource task mangement app
